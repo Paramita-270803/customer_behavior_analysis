@@ -97,7 +97,7 @@ Category comparisons
 
 Insight-driven visuals
 
-![Dashboard Screenshot](Screenshots/Dashboard(2).png)
+![Dashboard Screenshot](Screenshots/Dashboard (2).png)
 
 
 Results & Insights
