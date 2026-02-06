@@ -97,7 +97,7 @@ Category comparisons
 
 Insight-driven visuals
 
-![Dashboard Screenshot](Screenshots/Dashboard (2).png)
+![Dashboard Screenshot](dashboard.png)
 
 
 Results & Insights
@@ -112,45 +112,6 @@ Improved data quality through cleaning
 
 This project demonstrates the ability to translate raw data into meaningful, decision-ready insights.
 
-How to Run
-
-Clone the repository:
-
-git clone https://github.com/yourusername/project-name.git
-
-
-Install dependencies:
-
-pip install -r requirements.txt
-
-
-Open Jupyter Notebook:
-
-jupyter notebook
-
-
-Run notebooks in order:
-
-data_loading.ipynb
-
-eda.ipynb
-
-data_cleaning.ipynb
-
-sql_analysis.sql
-
-Open the dashboard file in Power BI
-
-Project Structure
-project/
-│
-├── data/
-├── notebooks/
-├── sql/
-├── dashboard/
-├── report/
-├── presentation/
-└── README.md
 
 Author
 
