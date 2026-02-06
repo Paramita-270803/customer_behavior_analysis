@@ -97,7 +97,8 @@ Category comparisons
 
 Insight-driven visuals
 
-![Dashboard Screenshot](C:/Users/arpit/OneDrive/Pictures/Screenshots/Dashboard(2).png)
+![Dashboard Screenshot](Screenshots/Dashboard(2).png)
+
 
 Results & Insights
 
